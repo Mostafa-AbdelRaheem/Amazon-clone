@@ -1,0 +1,10 @@
+make sure you installed node.js
+
+Next.js
+Tailwinds
+firebase
+
+npm install @heroicons/react
+heroicons
+
+npm i react-responsive-carousel
