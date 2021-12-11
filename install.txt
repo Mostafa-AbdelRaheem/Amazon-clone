@@ -8,3 +8,11 @@ npm install @heroicons/react
 heroicons
 
 npm i react-responsive-carousel
+
+npm install react-currency-formatter
+
+NextAuth
+npm install next-auth
+
+
+npm install firebase
