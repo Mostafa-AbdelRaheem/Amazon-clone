@@ -1,6 +1,8 @@
 # AMAZON_CLONE
 
 This website clone of Amazon,the aim of this project to practice React.js and Redux .
+You can visit the site through this [link](https://amazon-clone-oxcodoq4r-mostafa-abdelraheem.vercel.app/)
+This code is made with the help of Sonny Sangha Youtube Channel [link](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA)
 
 # Installation Steps
 
