@@ -16,3 +16,8 @@ npm install next-auth
 
 
 npm install firebase
+
+
+npm install @stripe/stripe-js
+
+npm install --save stripe
