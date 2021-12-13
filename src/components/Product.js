@@ -1,4 +1,4 @@
-import { StarIcon } from "@heroicons/react/outline";
+import { StarIcon } from "@heroicons/react/solid";
 import Image from "next/image";
 import { useState } from "react";
 import Currency from "react-currency-formatter"
